@@ -1,1 +1,10 @@
-ausdhasuhd
+(a) In a non-Agile project, the equivalent to the product owner is a product manager. A product owner is responsible for giving directions to teams, and they handle release management and stakeholder management.
+(b) Scrum Master - Responsible for scrum-related tasks, JIRA tooling, facilitating sprints and various meetings, and hosting the daily standup meetings.
+    Product Owner - Focusing on the product, its features, and the needs of the customer. Not that much involved in the day-to-day management of the team.
+(c) Sprint Planning Meeting - Determine tasks that need to be done in sprint, moves tasks from backlog to current sprint.
+    Daily Scrum/Standup - Team members speak of any work done in the day, and what they plan to do.
+    Sprint Retro - Discuss work complete, and move incomplete work to backlog.
+(d) Epic - Large body of work that can be broken down into smaller tasks
+Story - Software system requirement expressed in a few sentences
+Bug - Smallest unit of work, prevents the function of work
+Task - Piece of work that needs to be done for group
