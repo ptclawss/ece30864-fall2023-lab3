@@ -1,1 +1,1 @@
-ausdhasuhd
+(a) In a non-Agile project, the equivalent to the product owner is a product manager. A product owner is responsible for giving directions to teams, and they handle release management and stakeholder management.
